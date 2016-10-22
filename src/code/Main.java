@@ -20,7 +20,7 @@ public class Main {
 	 * @param args the args is not used for this program.
 	 */
 	public static void main(String[] args) {
-		Maze maze = new Maze(20, 20, false);
+		Maze maze = new Maze(20, 20, true);
 		new MazeGUI(maze.getMaze());
 		//testMaze();
 	}
