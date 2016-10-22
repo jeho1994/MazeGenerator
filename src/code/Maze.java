@@ -1,7 +1,7 @@
 /*
  * Assignment 5 Maze Generator.
  * 
- *  Louis Yang, Michael Wilson.
+ *  Louis Yang.
  *  GUI Extra Credit Completed 
  */
 package code;
@@ -14,7 +14,7 @@ import java.util.Stack;
 /**
  * Maze Generator for the Maze Program.
  * 
- * @author Louis Yang, Michael Wilson.
+ * @author Louis Yang
  * @version 1.0
  */
 public class Maze {

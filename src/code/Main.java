@@ -1,7 +1,7 @@
 /*
  * Assignment 5 Maze Generator.
  * 
- *  Louis Yang, Michael Wilson.
+ *  Louis Yang
  *  GUI Extra Credit Completed 
  */
 package code;
